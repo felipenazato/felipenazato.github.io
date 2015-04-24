@@ -1,3 +1,5 @@
+cd Desktop/pagina_github
+git pull
 git add -A
 git commit -m "mensagem"
 git push -u origin master
